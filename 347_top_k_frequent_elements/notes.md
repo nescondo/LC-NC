@@ -14,3 +14,5 @@ After that, we created a vector of pairs of the frequency: number. This is impor
 the pairs by their frequency from the end to the beginning of the vector. Then, we just created a vector
 to store the the K number of elements within the vector of pairs. This was all done in a time complexity
 and space complexity of O(n).
+
+1hr. 22min.
