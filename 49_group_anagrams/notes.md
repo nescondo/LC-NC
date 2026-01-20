@@ -14,3 +14,13 @@ as a string, with the value as a vector of the matching strings (in regards to t
 Not too bad, but will probably have to review this harder questions a few more times until it sticks.
 
 1hr 49min
+
+## 1/20/25
+
+Been about a week since I last completed this problem. I pretty much got the algorithm down on whiteboard
+in about ~10min. However, I didn't know the syntax and some 'tricks' to convert it into C++. Upon reviewing
+the solution, I had forgotten that I need to actually default initialize a vector of 26 0's BEFORE
+converting it into a string. Then from there, convert to string and just concatenate the rest of the frequencies.
+Starting to remember a few tricks to these types of problems. This is an O(n * k) time/space complexity solution.
+
+43min.
