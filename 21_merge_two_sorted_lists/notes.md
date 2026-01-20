@@ -1,6 +1,6 @@
 # Merge Two Sorted Lists
 
-## 1/15/25
+## 1/15/26
 
 I understood the algorithm to get to a solution, though I did get stuck on iterating over our sorted LL.
 I knew that if I only utilized the sorted head and next pointer that I would essentially be overwriting

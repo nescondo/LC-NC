@@ -1,6 +1,6 @@
 # Group Anagrams
 
-## 1/12/25
+## 1/12/26
 
 Completed it on my own (with a hint) in C++ within ~1 hour initially. I remembered the logic around
 the first anagram problem, so I went with the technique on that. I just compared the frequency of letters
@@ -15,7 +15,7 @@ Not too bad, but will probably have to review this harder questions a few more t
 
 1hr 49min
 
-## 1/20/25
+## 1/20/26
 
 Been about a week since I last completed this problem. I pretty much got the algorithm down on whiteboard
 in about ~10min. However, I didn't know the syntax and some 'tricks' to convert it into C++. Upon reviewing
