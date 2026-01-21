@@ -10,3 +10,10 @@ This took me about ~2min. Afterwards, I reviewed the solution to get the syntax 
 and implemented it myself.
 
 15min.
+
+## 1/21/26
+
+Did my daily problem a bit late so I chose this. Was able to figure it out pretty easily as it's my third time
+doing it. I think I pretty much solidified the frequency algorithm idea with anagram type problems.
+
+~10min.
