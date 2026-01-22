@@ -12,3 +12,10 @@ and checked to see if the count (value) of a given number (key) was over 1 AFTER
 number was found. If so, we have found a duplicate.
 
 7min. 30sec.
+
+## 1/22/26
+
+Third time doing this problem. Did it pretty quickly - very similar to frequency/map type problems
+(Anagram, Group Anagrams, etc.), so I solved it via a map.
+
+2min. 30sec.
