@@ -1,0 +1,7 @@
+# IDE files
+.idea/
+
+# Compiled files
+*.o
+*.out
+*.exe
