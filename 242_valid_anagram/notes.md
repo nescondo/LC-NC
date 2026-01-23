@@ -17,3 +17,9 @@ Did my daily problem a bit late so I chose this. Was able to figure it out prett
 doing it. I think I pretty much solidified the frequency algorithm idea with anagram type problems.
 
 ~10min.
+
+## 1/23/26
+Fourth time doing this problem. Pretty much recognize the frequency within an array type problems easily now.
+Part of the 3 easy and 1 medium problem for NC 150.
+
+~3min.
