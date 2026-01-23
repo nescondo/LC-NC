@@ -27,6 +27,7 @@ Starting to remember a few tricks to these types of problems. This is an O(n * k
 
 ## 1/23/26
 Third time completing this problem. I remember the algorithm quite well, just had a few syntax errors
-to debug through. Didn't take me much time and the frequency-type questions have stuck with me.
+to debug through. Didn't take me much time and the frequency-type questions have stuck with me. This was
+the medium problem for the 3 easy + 1 medium in the NC 150 roadmap for today.
 
 ~20min.
