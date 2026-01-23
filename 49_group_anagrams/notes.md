@@ -24,3 +24,9 @@ converting it into a string. Then from there, convert to string and just concate
 Starting to remember a few tricks to these types of problems. This is an O(n * k) time/space complexity solution.
 
 43min.
+
+## 1/23/26
+Third time completing this problem. I remember the algorithm quite well, just had a few syntax errors
+to debug through. Didn't take me much time and the frequency-type questions have stuck with me.
+
+~20min.
