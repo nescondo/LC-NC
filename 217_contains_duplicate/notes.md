@@ -19,3 +19,9 @@ Third time doing this problem. Did it pretty quickly - very similar to frequency
 (Anagram, Group Anagrams, etc.), so I solved it via a map.
 
 2min. 30sec.
+
+## 1/23/26
+
+Fourth time doing this problem. I wanted to go over all easy array problems + 1 medium in NC 150.
+
+2min.
