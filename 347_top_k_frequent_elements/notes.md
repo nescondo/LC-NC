@@ -16,3 +16,12 @@ to store the the K number of elements within the vector of pairs. This was all d
 and space complexity of O(n).
 
 1hr. 22min.
+
+## 1/24/26
+
+Wasn't exactly feeling it today but needed to review this problem. I went ahead and reviewed my solution, but
+quickly realized that it wasn't the O(n) solution as we were using std::sort which is an O(nlogn) algorithm.
+I reviewed the O(n) solution that effectively used the 'real' modified bucket sort algorithm which gives us
+the O(n) solution.
+
+~30min.
