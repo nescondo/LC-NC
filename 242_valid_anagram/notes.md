@@ -19,7 +19,17 @@ doing it. I think I pretty much solidified the frequency algorithm idea with ana
 ~10min.
 
 ## 1/23/26
+
 Fourth time doing this problem. Pretty much recognize the frequency within an array type problems easily now.
 Part of the 3 easy and 1 medium problem for NC 150.
 
 ~3min.
+
+## 1/25/26
+
+Pretty easy, used a map to track the frequency of characters in both strings and checked if they matched
+one another.
+
+3min.
+
+

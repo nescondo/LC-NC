@@ -25,3 +25,9 @@ Third time doing this problem. Did it pretty quickly - very similar to frequency
 Fourth time doing this problem. I wanted to go over all easy array problems + 1 medium in NC 150.
 
 2min.
+
+# 1/25/26
+
+Pretty easy, completed quickly using a map.
+
+2min.

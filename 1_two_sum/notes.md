@@ -18,3 +18,11 @@ index as a value. Had some trouble with syntax (especially with inserting a pair
 that part of the solution.
 
 ~10min.
+
+## 1/25/26
+
+Brute-force solution with double for loop is obvious, but took me some time to remember solving with a map and
+difference. Essentially, calculate the difference and check if it's already in our map, if not, then we have
+to add that pair of the current value we're on as a key and the index as a value.
+
+~10min.

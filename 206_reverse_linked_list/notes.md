@@ -9,3 +9,10 @@ In the future, I should just make it easy on myself and whenever I have a temp v
 for iteration, to just immediately set it to the next element/node.
 
 1hr.
+
+## 1/25/26
+
+Still wrapping my head around Linked List problems but overall have the general gist. Essentially, remember
+to create a temp variable to keep track of the next node within the original LL.
+
+15min.
