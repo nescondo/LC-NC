@@ -26,8 +26,17 @@ Starting to remember a few tricks to these types of problems. This is an O(n * k
 43min.
 
 ## 1/23/26
+
 Third time completing this problem. I remember the algorithm quite well, just had a few syntax errors
 to debug through. Didn't take me much time and the frequency-type questions have stuck with me. This was
 the medium problem for the 3 easy + 1 medium in the NC 150 roadmap for today.
 
 ~20min.
+
+## 1/25/26
+
+Was able to complete it on my own rather quickly. Using the algorithm where we just take the frequency array
+of each character, convert it into a string (to use it as a key to our map), then just push back each
+string that matches that string sits well with me now.
+
+10min.
