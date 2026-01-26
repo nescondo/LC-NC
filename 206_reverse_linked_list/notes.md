@@ -16,3 +16,10 @@ Still wrapping my head around Linked List problems but overall have the general 
 to create a temp variable to keep track of the next node within the original LL.
 
 15min.
+
+## 1/26/26
+
+I remembered the idea of how to do this. Just have to create a temp variable to the next node to ensure
+we iterate through the original linked list.
+
+1min.
