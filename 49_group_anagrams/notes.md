@@ -40,3 +40,11 @@ of each character, convert it into a string (to use it as a key to our map), the
 string that matches that string sits well with me now.
 
 10min.
+
+## 1/27/26
+
+I remember the algorithm quite well as this point. Create a frequency array of each character as a
+key to the map, then have a vector that holds the matching strings as a value corresponding to the
+frequency array.
+
+~5min.
