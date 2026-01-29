@@ -48,3 +48,10 @@ key to the map, then have a vector that holds the matching strings as a value co
 frequency array.
 
 ~5min.
+
+## 1/28/26
+
+I can consistently and accurately recreate/explain the algorithm and reasoning on why I use this
+particular solution.
+
+~5min.
