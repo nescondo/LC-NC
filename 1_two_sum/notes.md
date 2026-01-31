@@ -26,3 +26,9 @@ difference. Essentially, calculate the difference and check if it's already in o
 to add that pair of the current value we're on as a key and the index as a value.
 
 ~10min.
+
+## 1/30/26
+
+Got the unordered map algorithm pretty down pat. Not too bad.
+
+~2min.
